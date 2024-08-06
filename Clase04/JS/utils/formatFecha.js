@@ -1,3 +1,3 @@
-function formatearFecha(date){
+function formatearFecha(date = ""){
   
 }

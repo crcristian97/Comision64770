@@ -54,5 +54,14 @@ const persona = [];
 
 persona.push(new nombrePersona(7225683, "Shresthi Johar", "shresthi_johar@bode.example", "female", "inactive"));
 persona.push(new nombrePersona(7225682, "Maheswar Somayaji", "maheswar_somayaji@nolan.test", "male", "active"));
+persona.push(new nombrePersona(7225682, "Maheswar Somayaji", "maheswar_somayaji@nolan.test", "male", "active"));
+persona.push(new nombrePersona(7225682, "Maheswar Somayaji", "maheswar_somayaji@nolan.test", "male", "active"));
+persona.push(new nombrePersona(7225682, "Maheswar Somayaji", "maheswar_somayaji@nolan.test", "male", "active"));
+persona.push(new nombrePersona(7225682, "Maheswar Somayaji", "maheswar_somayaji@nolan.test", "male", "active"));
 
-console.log(persona)
+
+
+console.log(persona);
+
+
+const nombreUusario = prompt("Como es tu nombre");
